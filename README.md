@@ -51,5 +51,5 @@
 </p>
 
 <div align="center">
-<a href="https://t.me/your_telegram">Telegram</a>
+<a href="https://t.me/coderonov">Telegram</a>
 </div>
