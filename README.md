@@ -15,10 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=coderonov&style=for-the-badge&color=blueviolet" />
 <a href="https://t.me/coderonov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
 </div>
 
 <br>
