@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="#english">English</a> · <a href="#русский">Русский</a> · <a href="#українська">Українська</a>
+<a href="#english">English</a> · <a href="#русский">Русский</a> · <a href="#srpski">Srpski</a>
 
 <br><br>
 
@@ -43,12 +43,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=coderonov&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderonov&theme=dark&hide_border=true" height="165"/>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderonov&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
 
+**Activity**
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=coderonov&theme=darkhub&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderonov&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -72,14 +70,14 @@
 
 ---
 
-<h2 id="українська">🇺🇦 Українська</h2>
+<h2 id="srpski">🇷🇸 Srpski</h2>
 
-**Про мене**
-- Розробляю Telegram-ботів, веб-застосунки, десктопні утиліти
-- Мови: Python, JavaScript, C#
-- Якість коду важливіша за кількість
+**O meni**
+- Pravim Telegram botove, web aplikacije, desktop alate
+- Jezici: Python, JavaScript, C#
+- Kvalitet koda je važniji od količine
 
-**Стек**
+**Stek**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
