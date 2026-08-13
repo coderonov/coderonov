@@ -40,7 +40,6 @@
 
 **GitHub Stats**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coderonov&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderonov&theme=dark&hide_border=true" height="165"/>
 </p>
 
@@ -75,7 +74,6 @@
 
 **Статистика GitHub**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coderonov&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=ru" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderonov&theme=dark&hide_border=true&locale=ru" height="165"/>
 </p>
 
@@ -105,7 +103,6 @@
 
 **GitHub statistika**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coderonov&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderonov&theme=dark&hide_border=true" height="165"/>
 </p>
 
