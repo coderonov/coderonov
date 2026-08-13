@@ -15,6 +15,10 @@
 <img src="https://komarev.com/ghpvc/?username=coderonov&style=for-the-badge&color=blueviolet" />
 <a href="https://t.me/coderonov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 </div>
 
 <br>
@@ -49,6 +53,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderonov&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
+**Snake**
+<p align="center">
+<img src="https://raw.githubusercontent.com/coderonov/coderonov/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
 ---
 
 <h2 id="русский">🇷🇺 Русский</h2>
@@ -68,6 +77,17 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
+**Статистика GitHub**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=coderonov&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=ru" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderonov&theme=dark&hide_border=true&locale=ru" height="165"/>
+</p>
+
+**Активность**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderonov&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
 ---
 
 <h2 id="srpski">🇷🇸 Srpski</h2>
@@ -85,6 +105,17 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+**GitHub statistika**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=coderonov&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderonov&theme=dark&hide_border=true" height="165"/>
+</p>
+
+**Aktivnost**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderonov&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 <br>
