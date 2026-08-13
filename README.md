@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://your-header-image-url-here.png" width="100%" />
+<img src="assets/banner.jpg" width="100%" />
 
 <br>
 
