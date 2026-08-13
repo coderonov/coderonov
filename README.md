@@ -48,14 +48,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderonov&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
-**Contribution Map**
+**Weather in Belgrade**
 <p align="center">
-<img src="https://ghchart.rshah.org/6c5ce7/coderonov" width="100%"/>
-</p>
-
-**3D Contributions**
-<p align="center">
-<img src="https://raw.githubusercontent.com/coderonov/coderonov/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://wttr.in/Belgrade.png" width="100%"/>
 </p>
 
 ---
@@ -87,14 +82,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderonov&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
-**Карта контрибуций**
+**Погода в Белграде**
 <p align="center">
-<img src="https://ghchart.rshah.org/00cec9/coderonov" width="100%"/>
-</p>
-
-**3D-контрибуции**
-<p align="center">
-<img src="https://raw.githubusercontent.com/coderonov/coderonov/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://wttr.in/Belgrade.png?lang=ru" width="100%"/>
 </p>
 
 ---
@@ -126,14 +116,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderonov&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
-**Mapa doprinosa**
+**Vreme u Beogradu**
 <p align="center">
-<img src="https://ghchart.rshah.org/e17055/coderonov" width="100%"/>
-</p>
-
-**3D doprinosi**
-<p align="center">
-<img src="https://raw.githubusercontent.com/coderonov/coderonov/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://wttr.in/Belgrade.png" width="100%"/>
 </p>
 
 <br>
