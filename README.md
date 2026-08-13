@@ -53,11 +53,6 @@
 <img src="https://wttr.in/Belgrade.png?lang=en" width="100%"/>
 </p>
 
-**Moon Phase**
-<p align="center">
-<img src="https://wttr.in/moon.png?lang=en" width="35%"/>
-</p>
-
 ---
 
 <h2 id="русский">🇷🇺 Русский</h2>
@@ -92,11 +87,6 @@
 <img src="https://wttr.in/Belgrade.png?lang=ru" width="100%"/>
 </p>
 
-**Фаза луны**
-<p align="center">
-<img src="https://wttr.in/moon.png?lang=ru" width="35%"/>
-</p>
-
 ---
 
 <h2 id="srpski">🇷🇸 Srpski</h2>
@@ -129,11 +119,6 @@
 **Vreme u Beogradu**
 <p align="center">
 <img src="https://wttr.in/Belgrade.png?lang=sr" width="100%"/>
-</p>
-
-**Mesečeva faza**
-<p align="center">
-<img src="https://wttr.in/moon.png?lang=sr" width="35%"/>
 </p>
 
 <br>
